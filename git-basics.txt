@@ -1,6 +1,0 @@
-* Git is an "engine" of a whole remote system, letting users create, track, remove, solve changes and so on - github is the platform, where the whole communication of locals goes. Think of git as your local SSD and github as some google cloud or dropbox platform.
-* There are several steps of creating a git repo, starting with creating one repository in github. Then, in your local machine - git remote add origin "link", git remote -v to check
-Afterwards, cd to wherever your project is (Desktop/My_project for example) and git init - to initialize an empty local repository. git add to add changes, git commit -m "commit" to commit them, git status and log to check them or histroy of commits.
-*git merge to merge branches, git branch to create them (or checkout to change them, checkout -b to create them) 
-*in case of merge conflicts, change it manually and pray to god
-*git push to send changes to the remote, git pull to fetch them or git fetch
