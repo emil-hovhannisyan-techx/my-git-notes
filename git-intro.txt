@@ -1,2 +1,0 @@
-*Github is a virtual platform located on some servers, for the sole purpose of interconnection between local git repositories via a single github repository - to which every single adepticus of git may push, copy the repository, create branches and so on based on access.
-*The sole purpose is to track changes within the project, teams, etc virtually.
